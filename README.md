@@ -55,8 +55,8 @@
 - 💬 Ask me about **React**, **Node.js**, **REST API**, and **clean code**.
 <!-- - 📝 I write articles and tutorials on [my blog](https://blog.naver.com/blackmoonko)-->
 - 📫 How to reach me:  
-  1st email: [moungyeong@gmail.com](mailto:moungyeong@gmail.com)  
-  2nd email: [blackmoonko@naver.com](mailto:blackmoonko@naver.com)
+  E-Mail: [moungyeong@gmail.com](mailto:moungyeong@gmail.com)  
+  <!-- 2nd email: [blackmoonko@naver.com](mailto:blackmoonko@naver.com)-->
 
 <!--
 ---
@@ -71,7 +71,7 @@
 
 ## 🌐 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackmoonko@naver.com)
+[![Gmail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moungyeong@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=velog&logoColor=white)]([https://velog.io/@your_id](https://blog.naver.com/blackmoonko))
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 
