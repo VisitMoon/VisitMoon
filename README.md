@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <!-- Git Profile 전체 참고 블로그 -->
 <!-- https://jjinueng.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%9C%EB%AF%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC-README-A-to-Z -->
@@ -50,7 +50,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on Full-stack web applications with Next.js (based on React framework) and Nest.js (built on Node.js & Express).
+- 🔭 I’m currently working on Full-stack web applications<br/>
+  with Next.js (based on React framework) and Nest.js (built on Node.js & Express).
 - 🌱 I’m currently learning **Spring**, **Java**, and **GraphQL**.
 - 💬 Ask me about **React**, **Node.js**, **REST API**, and **clean code**.
 <!-- - 📝 I write articles and tutorials on [my blog](https://blog.naver.com/blackmoonko)-->
