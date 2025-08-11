@@ -58,12 +58,14 @@
   1st email: [moungyeong@gmail.com](mailto:moungyeong@gmail.com)  
   2nd email: [blackmoonko@naver.com](mailto:blackmoonko@naver.com)
 
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 ![VisitMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisitMoon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisitMoon&layout=compact&theme=radical)
+-->
 
 ---
 
